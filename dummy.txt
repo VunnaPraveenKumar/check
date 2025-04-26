@@ -1,0 +1,12 @@
+bdg
+  db
+  db
+  b
+  d
+
+  db
+  d
+
+  bd
+  d
+  db
